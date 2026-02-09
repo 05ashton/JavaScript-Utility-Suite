@@ -2,7 +2,7 @@
 
 A lightweight, browser-based toolset featuring a mathematical calculator and a NATO phonetic alphabet converter. Built with vanilla JavaScript to demonstrate core DOM manipulation, event handling, and algorithm implementation without external dependencies.
 
-![Calculator Demo](https://www.google.com/search?client=safari&rls=en&q=%3Cimg+width%3D%22586%22+height%3D%22744%22+alt%3D%22Image%22+src%3D%22https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2Fa2ed0093-4b77-4b31-8bda-a5089c147062%22+%2F%3E&ie=UTF-8&oe=UTF-8))
+![Calculator Demo](https://github.com/user-attachments/assets/a2ed0093-4b77-4b31-8bda-a5089c147062)
 
 ## 🚀 Live Demo
 [View Live Demo](https://05ashton.github.io/JavaScript-Utility-Suite/)
@@ -19,7 +19,7 @@ A lightweight, browser-based toolset featuring a mathematical calculator and a N
 * **Case Insensitivity:** robustly handles mixed uppercase and lowercase input.
 * **String Parsing:** specific algorithm to map characters to phonetic values.
 
-![Converter Demo]((https://www.google.com/search?client=safari&rls=en&q=%3Cimg+width%3D%22545%22+height%3D%22279%22+alt%3D%22Image%22+src%3D%22https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2Fef9c3929-e39c-4030-8e74-5c6628b65bec%22+%2F%3E&ie=UTF-8&oe=UTF-8))
+![Converter Demo](https://github.com/user-attachments/assets/ef9c3929-e39c-4030-8e74-5c6628b65bec)
 
 ## 💻 Technical Highlights
 
