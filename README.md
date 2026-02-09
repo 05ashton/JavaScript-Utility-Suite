@@ -1,24 +1,39 @@
-# Utility Hub
+# JavaScript Utility Suite
 
-A simple web-based application built for **CIS 111 – Introduction to Web Programming**.  
-Includes two utilities:
+A lightweight, browser-based toolset featuring a mathematical calculator and a NATO phonetic alphabet converter. Built with vanilla JavaScript to demonstrate core DOM manipulation, event handling, and algorithm implementation without external dependencies.
 
-1. **Basic Calculator** – Performs addition, subtraction, multiplication, and division with history tracking.
-2. **NATO Phonetic Converter** – Converts words or sentences into their NATO phonetic equivalent.
+![Calculator Demo](YOUR_IMAGE_LINK_HERE)
 
-## Features
+## 🚀 Live Demo
+[View Live Demo](https://05ashton.github.io/JavaScript-Utility-Suite/)
 
-- Input validation for calculator numbers
-- Dynamic history of calculations
-- Supports uppercase and lowercase letters for NATO conversion
-- Clear buttons for both utilities
+## 🛠 Features
 
-## Usage
+### 1. Mathematical Calculator
+* **Arithmetic Operations:** Supports addition, subtraction, multiplication, and division.
+* **Input Validation:** Prevents invalid inputs to ensure calculation stability.
+* **History Tracking:** Dynamically renders a history log of recent calculations using DOM manipulation.
 
-Open `p4.html` in a browser to use the app.
+### 2. NATO Phonetic Converter
+* **Real-time Conversion:** Instantly translates input text into the NATO phonetic alphabet (e.g., "Hello" → "Hotel Echo Lima Lima Oscar").
+* **Case Insensitivity:** robustly handles mixed uppercase and lowercase input.
+* **String Parsing:** specific algorithm to map characters to phonetic values.
 
-## Technologies
+![Converter Demo](YOUR_IMAGE_LINK_HERE)
 
-- HTML
-- CSS
-- JavaScript
+## 💻 Technical Highlights
+
+This project was built to master the fundamentals of **Vanilla JavaScript**:
+
+* **DOM Manipulation:** interacting with the Document Object Model to update the UI without page reloads.
+* **Event Listeners:** handling user clicks and keystrokes efficiently.
+* **Logic Implementation:** writing custom algorithms for string parsing and mathematical logic.
+* **CSS Styling:** custom styling for a responsive and clean user interface.
+
+## 📂 Project Structure
+
+```text
+JavaScript-Utility-Suite/
+├── index.html       # Main entry point and UI structure
+├── styles.css       # Custom styling for the interface
+└── script.js        # Core logic for calculator and converter
